@@ -1,0 +1,15 @@
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\bin\Debug\netstandard2.0\KWweathermap.deps.json
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\bin\Debug\netstandard2.0\KWweathermap.dll
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\obj\Debug\netstandard2.0\KWweathermap.csprojAssemblyReference.cache
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\obj\Debug\netstandard2.0\WeatherPage.xaml.g.cs
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\obj\Debug\netstandard2.0\KWweathermap.AssemblyInfoInputs.cache
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\obj\Debug\netstandard2.0\KWweathermap.AssemblyInfo.cs
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\bin\Debug\netstandard2.0\ref\KWweathermap.dll
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\bin\Debug\netstandard2.0\KWweathermap.pdb
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\obj\Debug\netstandard2.0\KWweathermap.csproj.CoreCompileInputs.cache
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\obj\Debug\netstandard2.0\KWweathermap.dll
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\obj\Debug\netstandard2.0\ref\KWweathermap.dll
+C:\Users\10797\source\repos\KWweathermap\KWweathermap\KWweathermap\obj\Debug\netstandard2.0\KWweathermap.pdb
